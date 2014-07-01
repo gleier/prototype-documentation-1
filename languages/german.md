@@ -115,11 +115,10 @@ Der Entwurf der Form der Anweisungsbloecke wird noch getestet. Die Formen sind g
     </iframe>
 </div>
 
-At the beginning the robot was a toy car. A very complicated and time consuming shape to produce, as it's a laser-cut shape glued together layer by layer, and subsequently sanded for over an hour. The car had another major issue, it was very boy oriented. We wanted to avoid entering in discussions about 'brain toy' producers being criticised of only producing boy-oriented toys. We wanted to stay neutral, we didn't want to create a toy specifically for boys or girls, and instead opted for a very neutral geometry, a box.
+Am Anfang hatte der Roboter die Form eines Autos. Eine sehr komplizierte Form die viel Zeit bei der Herstellung beansprucht da die einzelnen Teile mit einem Laser cutter geschnitten und Schicht fuer Schicht zusammengeklebt und eine Stunde mit Sandpapier Abgeschmiergelt wurden. Ein anderes Problem war das die Form sehr eher Buben als Maedchen anspricht. Wir wollten eine Diskussion ueber 'Hirnspielzeug" das fuer nur Buben gemacht wird vermeiden. Wir wollten neutral bleiben und keine Spielzeug spezielle fuer Maedchen oder Burschen entwickeln also entschieden wir uns fuer eine sehr Neutrale Form. Einen Wuerfel.
 
-A name was given to the little box, along with a personality and a similey face, making it even more appealing for children. The robot is called Cubetto (little cube in Italian). The idea with Cubetto is also to create a basic module that can be expanded and customized easily in the future.
+Dem kleinen Wuerfel wurde ein Name gegebn zusammen mit einer Personalitaet und einem Laecheln um ihn fuer Kinder noch Atraktiver zu gestalten. Der name des Roboters ist Cubetto (kleiner Wuerfel auf Italienisch). Die Idee hinter Cubetto ist es ein Basismodell zu erschaffen das in Zukunft einfach erweitert werden kann.
 
-Am Anfang hatte der Roboter die Form eines Autos.
 ![cubetto]({{ site.baseurl }}images/photo/cubetto.jpg)
 
 ##3. Erste Schritte
