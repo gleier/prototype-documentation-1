@@ -48,7 +48,7 @@ Erklaerung der oben erwaehnten Schritte:
   8. Oeffne den Zielordner nachdem die Dateien heruntergeladen wurden.
   9. Oeffne den Ordner 'languages'. In diesem befinden sich alle vorhandenen Uebersetzungen. Um eine Seite zu Uebersetzen kopiere einfach die zu Uebersetzende Sprachdatei (zum Beispiel "english.md") in den selben Ordner und aendre den Dateiname so das er der zu Uebersetzenden Sprache entspricht (zb. spanish.md). Dannach uebersetze den Rest des Dokuments.
   10. Oeffne die erstellte Datei und aendre den Seitentitel 'titel' (in den Titel in der Zielsprache) und 'language' (Die Zielsprache mit Grossgeschriebenem Anfangsbuchstaben) ohne die Eingeklammerten- und HTML Elemente zu veraendern.
-  11. Nachdem die Uebersetzung fertig nd gespeichert ist is es zeit unser Dokument wieder auf GitHub hochzuladen. Oeffne das GitHub Programm und Doppelklicke auf das repository. Klicke auf "Changes" auf der linken navigationsleiste. Nun sollte die Meldung "Uncommited Changes" ausgeben werden.
+  11. Nachdem die Uebersetzung fertig und gespeichert ist is es zeit unser Dokument wieder auf GitHub hochzuladen. Oeffne das GitHub Programm und Doppelklicke auf das repository. Klicke auf "Changes" auf der linken navigationsleiste. Nun sollte die Meldung "Uncommited Changes" ausgeben werden.
   12. Gib deinen Aenderungen einen Namen wie zum Beispiel "spanish translation" und Klicke auf "commit" und anschiessend auf "sync".
   13. Go to your GitHub profile, on the forked repository page. You should be able to see your newly created page in the 'languages' folder. On the top, there should be a green button with two arrows, click on it to issue a pull request. (see picture below)
   ![photo]({{ site.baseurl }}images/screenshots/pull-1.jpg)
@@ -65,7 +65,7 @@ Erklaerung der oben erwaehnten Schritte:
 
 ![primo play set]({{ site.baseurl }}images/photo/primo.jpg)
 
-Primo ist eine angreifbare Benutzerschnittstelle die Entworfen wurde um Kindern im Alter zwischen 3 und 7 Jahren, die noch nicht Lesen koennen, Prgrammierbare Logik beizubringen. Das Spielziel ist es den kleinen Roboter namens Cubetto zurueck in sein Haus zu fahren. Um dieses Ziel zu erreichen muessen Kinder den kleinen Roboter mithilfe einer beschraenkten Anzahl von Anweisungen(Forwaerts, Links ,Rechts und Funktion) Programmieren.
+Primo ist eine angreifbare Benutzerschnittstelle die Entworfen wurde um Kindern im Alter zwischen 3 und 7 Jahren, die noch nicht Lesen koennen, Prgrammierbare Logik beizubringen. Das Spielziel ist es den kleinen Roboter namens Cubetto zurueck in sein Haus zu fahren. Um dieses Ziel zu erreichen muessen Kinder den kleinen Roboter mithilfe einer beschraenkten Anzahl von Anweisungen(Vorwaerts, Links ,Rechts und Funktion) Programmieren.
 Die Aufgabe der ersten 3 Befehle versteht sich Intuitiv. Die Anweisung Funktion ruft eine Subroutine, eine eigene Zeile mit Anweisungen, innerhalb einer einzigen Anweisung auf.
 
 <div class="videoWrapper">
