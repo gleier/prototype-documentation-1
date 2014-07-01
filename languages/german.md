@@ -131,6 +131,8 @@ Es gibt vier Typen von Anweisungsbloecken. Das bedeutet das Widerstaende mit 4 v
 
 The blocks are inserted into the holes of the Interface Board, where the resistor value is identified. After that, the values are processed into a string that is sent to Cubetto using two XBee modules. Cubetto then executes the instructions, one after the other.
 
+Die Bloecke
+
 The brain of the prototype is made of two Arduino Boards, a UNO (A Leonardo or a Duemilanove will also do) for Cubetto, and a Mega for the Interface Board, where 16 analog inputs are required.
 
 ###3.2 Elektronik
