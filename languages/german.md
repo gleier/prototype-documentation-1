@@ -119,6 +119,7 @@ At the beginning the robot was a toy car. A very complicated and time consuming 
 
 A name was given to the little box, along with a personality and a similey face, making it even more appealing for children. The robot is called Cubetto (little cube in Italian). The idea with Cubetto is also to create a basic module that can be expanded and customized easily in the future.
 
+Am Anfang hatte der Roboter die Form eines Autos.
 ![cubetto]({{ site.baseurl }}images/photo/cubetto.jpg)
 
 ##3. Erste Schritte
