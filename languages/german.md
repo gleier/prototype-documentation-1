@@ -100,7 +100,7 @@ Design-wise, some features required testing; the actual design is the result of 
 Was das Design Betrifft
 Einige Eigenschaften des Entwurfes benoetigten Tests. Der Aktuelle Enwurf ist das Ergebnis einiger Durchlaeufe.
 
-Der schlaengelnde 'zik-zak' Pfad der Anweisungssquenz wurde gewaehlt um Schreib- und Lesevorurteile zu vermeiden.
+Der schlaengelnde 'zik-zak' Pfad der Anweisungssequenz wurde gewaehlt um Schreib- und Lesevorurteile zu vermeiden.
 ![left to right]({{ site.baseurl }}images/illustrations/left-to-right.jpg)
 
 Die 'D' Form der Anweisungsblockanschluesse wurde so entworfen das sie nur auf eine Art verwendet werden koennen und sich nach dem Pfad und der Fahrrichtung orientieren. Auch andere Formen sind moeglich. Die D Form wurde gewaehlt weil sie ein 'ausgerichteter Kreis ist und als Form an aehnliche Pinwand Entwuerfe erinnert.
@@ -129,11 +129,9 @@ Primo besteht aus drei Teilen: Der Benutzerschnittstelle, Cubetto und einem Set 
 
 Es gibt vier Typen von Anweisungsbloecken. Das bedeutet das Widerstaende mit 4 verschiedenen Werten benutzt werden koennen. Moeglicherweise solche deren Werte weit voneinander entfernt liegen.
 
-The blocks are inserted into the holes of the Interface Board, where the resistor value is identified. After that, the values are processed into a string that is sent to Cubetto using two XBee modules. Cubetto then executes the instructions, one after the other.
+Die Anweisungsbloecke werden in die Vertiefungen der Benutzerschnittstelle gesteckt. Hier wird der Widerstandswert gemessen. Dannach werden die gemessenen Werte Zu einer Ablaufliste verarbeitet und unter der Verwendung von zwei XBee Funkmodulen an Cubetto gesendet. Cubetto fuehrt die Anweisungen dann der Reihe nach aus.
 
-Die Bloecke
-
-The brain of the prototype is made of two Arduino Boards, a UNO (A Leonardo or a Duemilanove will also do) for Cubetto, and a Mega for the Interface Board, where 16 analog inputs are required.
+Das Gehirn des Prototypen besteht aus Zwei Arduino Boards, einem UNO (Leonardo oder Duemilanove koennen webenfalls Verwendet werden.) fuer Cubetto und einem Arduino Mega fuer die Benutzerschnittstelle bei der 16 Analoge Eingaenge Vorhanden sein muessen.
 
 ###3.2 Elektronik
 ###Benoetigtes Werkzeug
