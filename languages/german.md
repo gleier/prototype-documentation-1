@@ -201,16 +201,16 @@ Zuallererst muessen Teil 3 und 4 zusammen geklebt werden. Benutze Schrauben umd 
 
 Then take the copper tape, cut 32 pieces of 70mm each and put them inside the rectangular holes in the part that you just glued, they should be at least 30mm wide on each side. Once you finished, you can now glue all the remaining top layers of the interface board, this is the correct order:
 
-Then take the copper tape, cut 32 pieces of 70mm each and put them inside the rectangular holes in the part that you just glued, they should be at least 30mm wide on each side. 
-
 ![copper connectors]({{ site.baseurl }}images/illustrations/board-1.jpg)
 ![copper connectors]({{ site.baseurl }}images/illustrations/board-2.jpg)
 
-Once you finished, you can now glue the previously glued parts, 1+2 with 3+4.
+Wenn du damit feritg bist kannst du die zuvor geklebten Teile 1+2 mit 3+4 zusammenkleben.
 
 ![copper connectors]({{ site.baseurl }}images/illustrations/board-esploso.jpg)
 
 Once the glue has dried, put the magnets in the little holes. Turn your top layer upside-down and fill the little holes with the magnets, make sure they are all in the same direction, doesn't matter if north or south. Seal the hole with a drop of hot glue.
+
+Wenn der Klebstoff getrocknet ist kannst du die Magnete in die kleinen Loecher legen.
 
 Now the electronics. Start by making rails for the 5V and the GND, all along the hole lines like in the picture. The first ever prototype never had copper strips, it had wires (which you can also use), but in this prototype we used copper tape also for the rails. A real 100% time saver. It also makes things easier for creating connections.
 
@@ -281,12 +281,12 @@ This is one instruction block, exploded:
 
 To make the Instruction Blocks, the first thing you have to do is laser cut the files, there's one for 4mm thick wood and one for 1mm wood. They are four layers, numbered from 1 to 4 and the drawings provided can be used to make 16 blocks, four of each kind.
 
-Each block has a different resistor. These are the resistors used in the prototype:
+Jeder Block hat einen andren Widerstand. Die folgenden Widerstaende wurden fuer den Prototypen verwendet:
 
-FORWARD: 4.7K Ω<br>
-LEFT: 100K Ω<br>
-RIGHT: 220 Ω<br>
-FUNCTION: 10K Ω
+VORWAERTS: 4.7K Ω<br>
+LINKS: 100K Ω<br>
+RECHTS: 220 Ω<br>
+FUNKTION: 10K Ω
 
 To make blocks, first you have to glue part 4 with part 3. 
 
@@ -363,7 +363,7 @@ Now print the inner drawing with the black and white slices, glue them on a piec
 
 ![photo]({{ site.baseurl }}images/photo/diy-docs-10.jpg)
 
-Now you can put the wheels on the motors, if you used the Solarbotics wheels, you can fasten them with the screw provided, don't make it too tight. 
+Nun kannst du die Raeder am Motor befestigen. Wenn du die Solarbotics Raeder verwendet hast kannst du sie mit den beiliegenden Schrauben befestigen. Achte Darauf die Schrauben nicht zu stark anzuziehen.
 
 Glue three out of the four 'walls' of Cubetto, parts 5, 7 and 8. We are going to leave the back removable, just in case we want to modify something. 
 
