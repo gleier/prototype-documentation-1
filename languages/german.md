@@ -183,17 +183,17 @@ Anweisungsbloecke ~ 4 €
 
 Cubetto und optional auch das Benutzerschnittstellen Board sind Batteriebetrieben. Fuer den Prototypen kannst du entscheiden ob du LiPo Akkus oder einfache AA Batterien verwenden willst. Wir haben beides verwendet. LiPo Akkus sind gut aber benoetigen ein wenig extra Zubehoer. Wenn du gerade anfaengst empfehlen wir AA Batterien. Merk dir aber das diese sehr schnell Leer werden. Am besten ist es wohl NiMh AA Akkus zu verwenden.
 
-###3.4 Prototype Design
+###3.4 Prototyp Entwurf
 
 Das Produkt ist aus mit Laser geschnittenem Holz gemacht. Vor allem 4mm stark und einer lage mit einer Dicke von 1mm. Du kannst die Einzelteile von Dienstleistern wie Ponoko schneiden lassen oder ein Fablab in deiner Naehe besuchen. Der erste Prototyp wurde im [FabLab Lugano](http://fablab.supsi.ch/) gefertigt. Waehrend die weitere Produktentwicklung im [FabLab Torino](http://fablabtorino.org/) stattfand. Teile des Entwicklerteams befinde n sich immer noch dort.
 
 Cubetto und das Benutzerschnittstellen Board zu bauen ist eine Arbeitsintensive aber sehr einfache Prozedur. Die Huellen sind einfache Schachteln. Die Komplexitaet liegt in der Herstellung der Anweisungsbloecke. Diese bestehen aus zwei 4mm Holzlagen mit Magneten und eingeloeteten Widerstaenden.
 
-##4. Prototype Making
+##4. Prototyp Herstellung
 
 ###[Download Source Files](files/primo-prototype-laser.zip)
 
-###4.1 Interface Board
+###4.1 Benutzerschnittstellen Board
 
 To make the interface board you have to laser cut two files: interface-board-4mm.dxf and interface-board-1mm.dxf: the first one is for 4mm plywood and the second one for 1mm plywood. As you can see from the files, the parts are numbered, to ease the assembly process. The numbers are stored on a different layer, so you can easily remove them before lasering. We recommend adjusting the hole for the push button, based on the size of the button you wish to use or have.
 
