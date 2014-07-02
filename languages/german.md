@@ -50,14 +50,15 @@ Erklaerung der oben erwaehnten Schritte:
   10. Oeffne die erstellte Datei und aendre den Seitentitel 'titel' (in den Titel in der Zielsprache) und 'language' (Die Zielsprache mit Grossgeschriebenem Anfangsbuchstaben) ohne die Eingeklammerten- und HTML Elemente zu veraendern.
   11. Nachdem die Uebersetzung fertig und gespeichert ist is es zeit unser Dokument wieder auf GitHub hochzuladen. Oeffne das GitHub Programm und Doppelklicke auf das repository. Klicke auf "Changes" auf der linken navigationsleiste. Nun sollte die Meldung "Uncommited Changes" ausgeben werden.
   12. Gib deinen Aenderungen einen Namen wie zum Beispiel "spanish translation" und Klicke auf "commit" und anschiessend auf "sync".
-  13. Go to your GitHub profile, on the forked repository page. You should be able to see your newly created page in the 'languages' folder. On the top, there should be a green button with two arrows, click on it to issue a pull request. (see picture below)
+13. Gehe zu deinem GitHub Profil das sich auf der forked repository Seite befindet. Nun solltest du die neu angelegte Datei im 'languages' Ordner sehen. Darueber sollte ein gruener Knop mit Zwei Pfeilen sein. Klicke diesen um eine pull request anzustossen. (wie am Bild darunter)
+
   ![photo]({{ site.baseurl }}images/screenshots/pull-1.jpg)
 
-  14. Then click on "Create Pull Request"
-  
+  14. Klicke nun auf "Create Pull Request"
+
   ![photo]({{ site.baseurl }}images/screenshots/pull-2.jpg)
 
-  15. Write a message for the pull request and that's it! Now we just have to approve the request.
+  15. Schreib eine Nachricht fuer den Pullrequest und schon bist du fertig. Nun muessen wir der Anfrage nur noch Zustimmen.
 </div>
 <br>
 
@@ -96,9 +97,7 @@ Das zweite Thema war der Entwurf eines Verlaesslichen Weges die Anweisungsbloeck
 
 Die Idee ist es Verschiedene Anweisungsbloecke durch die Verwendung unterschiedlicher Widerstaenden zu Identifizieren. Im Prinzip handelt es sich hier um einen simplen Spannungsteiler bei dem die Analogen Eingaenge des Arduino die durch die Widerstaende reduzierte Spannung Messen. Eine sehr Einfache Methode die sich beim Prototypen als sehr effektiv Herausgestellt hat.
 
-Design-wise, some features required testing; the actual design is the result of several iterations. 
-Was das Design Betrifft
-Einige Eigenschaften des Entwurfes benoetigten Tests. Der Aktuelle Enwurf ist das Ergebnis einiger Durchlaeufe.
+Einige Eigenschaften des Entwurfes benoetigten Tests. Der Aktuelle Enwurf ist das Ergebnis mehrerer Durchlaeufe.
 
 Der schlaengelnde 'zik-zak' Pfad der Anweisungssequenz wurde gewaehlt um Schreib- und Lesevorurteile zu vermeiden.
 ![left to right]({{ site.baseurl }}images/illustrations/left-to-right.jpg)
@@ -117,7 +116,7 @@ Der Entwurf der Form der Anweisungsbloecke wird noch getestet. Die Formen sind g
 
 Am Anfang hatte der Roboter die Form eines Autos. Eine sehr komplizierte Form die viel Zeit bei der Herstellung beansprucht da die einzelnen Teile mit einem Laser cutter geschnitten und Schicht fuer Schicht zusammengeklebt und eine Stunde mit Sandpapier Abgeschmiergelt wurden. Ein anderes Problem war das die Form sehr eher Buben als Maedchen anspricht. Wir wollten eine Diskussion ueber 'Hirnspielzeug" das fuer nur Buben gemacht wird vermeiden. Wir wollten neutral bleiben und keine Spielzeug spezielle fuer Maedchen oder Burschen entwickeln also entschieden wir uns fuer eine sehr Neutrale Form. Einen Wuerfel.
 
-Dem kleinen Wuerfel wurde ein Name gegebn zusammen mit einer Personalitaet und einem Laecheln um ihn fuer Kinder noch Atraktiver zu gestalten. Der name des Roboters ist Cubetto (kleiner Wuerfel auf Italienisch). Die Idee hinter Cubetto ist es ein Basismodell zu erschaffen das in Zukunft einfach erweitert werden kann.
+Dem kleinen Wuerfel wurde ein Name gegeben zusammen mit einer Personalitaet und einem Laecheln um ihn fuer Kinder noch Attraktiver zu gestalten. Der name des Roboters ist Cubetto (kleiner Wuerfel auf Italienisch). Die Idee hinter Cubetto ist es ein Basismodell zu erschaffen das in Zukunft einfach erweitert werden kann.
 
 ![cubetto]({{ site.baseurl }}images/photo/cubetto.jpg)
 
