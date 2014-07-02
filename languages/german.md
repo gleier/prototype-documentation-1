@@ -78,7 +78,7 @@ Die Aufgabe der ersten 3 Befehle versteht sich Intuitiv. Die Anweisung Funktion 
 
 Kindern Programmieren zu Lehren ist ein weit debatiertes Thema. Wir sind uns einer moderaten Anzahl von Loesungen fuer Kinder ab 8 Jahren bewusst die dies erfuellen sollen. Wie auch immer. Es gibt nicht viele Loesungen die fuer Juengere Kinder gemacht sind und es gibt keine einzige Loesung die ohne Bildschirm oder der Faehigkeit zu Lesen verwendbar ist. Wir sehen eine steigende Anzahl von Applikationen fuer Tablets und andere Computer die das Steuern Physischer Roboter ermoeglichen. Aber keine von diesen sind komplett aus der "pixel domain" losgeloest wie das Primo Play Set.
 
-Holz wurde als das Hauptmaterial ausgewaehlt. Zuallererstmal weil es natuerlich ist; sich warm anfuehlt und weil es gut Klingt. Der zweite Grund ist Kultureller Natur. Beobachtungen in Schweizer Kindergaerten (Das Originaldesign stammt aus der Schweiz) Fuehrten zum Ergebnis das Kinder Holzspielzeug bevorzugen. Holzspielzeuge sind sehr Robust. Dennoch Zeugen Kratzer und Furchen von der Vormaligen Verwendung durch andere Kinder. Sogesehen ist Holz ein Material mit Gedaechtnis. Holz wurde auch deshalb ausgewaehlt weil es im Kontrast zur dahinterliegenden Technik steht. Im Inneren des Primo befindet sich eine beschaltete Platine, wir aber wollten eine "Magische" Erfahrung Vermitteln und versteckten daher die Komplexitaet des Spielzeugs.
+Holz wurde als das Hauptmaterial ausgewaehlt. Zuallererstmal weil es natuerlich ist, sich warm anfuehlt und weil es gut Klingt. Der zweite Grund ist Kultureller Natur. Beobachtungen in Schweizer Kindergaerten (Das Originaldesign stammt aus der Schweiz) Fuehrten zum Ergebnis das Kinder Holzspielzeug bevorzugen. Holzspielzeuge sind sehr Robust. Dennoch Zeugen Kratzer und Furchen von der Vormaligen Verwendung durch andere Kinder. Sogesehen ist Holz ein Material mit Gedaechtnis. Holz wurde auch deshalb ausgewaehlt weil es im Kontrast zur dahinterliegenden Technik steht. Im Inneren des Primo befindet sich eine beschaltete Platine, wir aber wollten eine "Magische" Erfahrung Vermitteln und versteckten daher die Komplexitaet des Spielzeugs.
 
 <img class="float" src="{{ site.baseurl }}images/photo/logo-turtle.jpg">
 
@@ -114,7 +114,7 @@ Der Entwurf der Form der Anweisungsbloecke wird noch getestet. Die Formen sind g
     </iframe>
 </div>
 
-Am Anfang hatte der Roboter die Form eines Autos. Eine sehr komplizierte Form die viel Zeit bei der Herstellung beansprucht da die einzelnen Teile mit einem Laser cutter geschnitten und Schicht fuer Schicht zusammengeklebt und eine Stunde mit Sandpapier Abgeschmiergelt wurden. Ein anderes Problem war das die Form sehr eher Buben als Maedchen anspricht. Wir wollten eine Diskussion ueber 'Hirnspielzeug" das fuer nur Buben gemacht wird vermeiden. Wir wollten neutral bleiben und keine Spielzeug spezielle fuer Maedchen oder Burschen entwickeln also entschieden wir uns fuer eine sehr Neutrale Form. Einen Wuerfel.
+Am Anfang hatte der Roboter die Form eines Autos. Eine sehr komplizierte Form die viel Zeit bei der Herstellung beansprucht da die einzelnen Teile mit einem Laser cutter geschnitten und Schicht fuer Schicht zusammengeklebt und eine Stunde mit Sandpapier Abgeschmiergelt wurden. Ein anderes Problem war das die Form sehr eher Buben als Maedchen anspricht. Wir wollten eine Diskussion ueber 'Lernspielzeug" das fuer nur Buben gemacht wird vermeiden. Wir wollten neutral bleiben und kein Spielzeug spezielle fuer Maedchen oder Burschen entwickeln also entschieden wir uns fuer eine sehr Neutrale Form. Einen Wuerfel.
 
 Dem kleinen Wuerfel wurde ein Name gegeben zusammen mit einer Personalitaet und einem Laecheln um ihn fuer Kinder noch Attraktiver zu gestalten. Der name des Roboters ist Cubetto (kleiner Wuerfel auf Italienisch). Die Idee hinter Cubetto ist es ein Basismodell zu erschaffen das in Zukunft einfach erweitert werden kann.
 
@@ -148,46 +148,46 @@ Cubetto ~ 88 €
 
 * Arduino UNO (or Leonardo) - 20 € : [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=11&products_id=195#.UxC5nfTV_bA)
 * Arduino Proto Wireless Shield - 14.90 € : [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=37_5&products_id=145#.UxC53vTV_bA)
-* SN754410 Motor Driver - 3.90 € : [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=6_33&products_id=153#.UxC5-_TV_bB)
-* XBee (series 1 or 2, doesn't make any difference) : 23.90 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=37_38&products_id=292#.UxC6cvTV_bA)
-* SolarBotics Wheels x 2 : 4.74 € - [Solarbotics Store](https://solarbotics.com/product/gmpw/)
-* SolarBotics Gear Motors GM3 x 2 : 8.36 € - [Solarbotics Store](https://solarbotics.com/product/gm3/)
-* 2 Ball Casters : 5.79 € - [Solarbotics Store](https://solarbotics.com/product/23160/)
+* SN754410 Motortreiber - 3.90 € : [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=6_33&products_id=153#.UxC5-_TV_bB)
+* XBee (ob Serie 1 oder 2, macht keinen Unterschied) : 23.90 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=37_38&products_id=292#.UxC6cvTV_bA)
+* SolarBotics Raeder x 2 : 4.74 € - [Solarbotics Store](https://solarbotics.com/product/gmpw/)
+* SolarBotics Getriebemotoren GM3 x 2 : 8.36 € - [Solarbotics Store](https://solarbotics.com/product/gm3/)
+* 2 Kugellaufrollen : 5.79 € - [Solarbotics Store](https://solarbotics.com/product/23160/)
 * CNY70 x 2 : 1 € - [Mouser](http://uk.mouser.com/ProductDetail/Vishay/CNY70/?qs=%2fha2pyFaduj8YpDhNNtXszq4w32cl%2fAjUjdOwQUvJUM%3d)
-* (optional) Battery Holder : 4 € - [Solarbotics Store](https://solarbotics.com/product/bholdaa_4_cell/)
-* (optional) 4 x Rechargeable Batteries
+* (optional) Batteriehalter : 4 € - [Solarbotics Store](https://solarbotics.com/product/bholdaa_4_cell/)
+* (optional) 4 x Akkus
 
 Benutzerschnittstellen Board ~ 88 € (reiner Zufall)
 
 * Arduino Mega 2560 : 39.00 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=11&products_id=196#.UxC_gPTV_bA)
 * Arduino Proto Wireless Shield : 14.90 - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=37_5&products_id=145#.UxC53vTV_bA)
-* XBee (series 1 or 2, doesn't make any difference) : 23.90 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=37_38&products_id=292#.UxC6cvTV_bA)
-* 16 5mm Red LED : 1 € - [Mouser](http://uk.mouser.com/ProductDetail/Lite-On/LTL-4223/?Lite-On/LTL-4223/&qs=sGAEpiMZZMusoohG2hS%252b15J8d1kHl%252bvkJpzS4atZNEA=)
-* 16 220 Ω Resistors : 0.16 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-220-RC/?qs=sGAEpiMZZMu61qfTUdNhG%2f1uGo5nxyCVqn6ChOCvUEE%3d)
-* 16 10K Ω Resistors : 0.16 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-10K-RC/?qs=sGAEpiMZZMu61qfTUdNhG6xwTrVwTvbz8PPav3aExs8%3d)
-* 1 Push Button : 1 € 
-* 50 Male Headers : 1 € 
-* 16 Double male headers : 0.50 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=6_32&products_id=294#.UxC_3fTV_bA)
-* 50 female headers : 1 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=6_32&products_id=188#.UxDAAfTV_bA)
-* 16 Magnets ø 4 h 3 : 3.5 € - [Supermagnete](http://www.supermagnete.ch/eng/S-04-03-N)
+* XBee (ob Serie 1 oder 2, macht keinen Unterschied) : 23.90 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=37_38&products_id=292#.UxC6cvTV_bA)
+* 16 5mm Rote LED : 1 € - [Mouser](http://uk.mouser.com/ProductDetail/Lite-On/LTL-4223/?Lite-On/LTL-4223/&qs=sGAEpiMZZMusoohG2hS%252b15J8d1kHl%252bvkJpzS4atZNEA=)
+* 16 220 Ω Widerstaende : 0.16 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-220-RC/?qs=sGAEpiMZZMu61qfTUdNhG%2f1uGo5nxyCVqn6ChOCvUEE%3d)
+* 16 10K Ω Widerstaende : 0.16 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-10K-RC/?qs=sGAEpiMZZMu61qfTUdNhG6xwTrVwTvbz8PPav3aExs8%3d)
+* 1 Druckknopf : 1 € 
+* 50 Stiftleisten : 1 € 
+* 16 Doppelte Stiftleisten : 0.50 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=6_32&products_id=294#.UxC_3fTV_bA)
+* 50 Buchsenleisten : 1 € - [Arduino Store](http://store.arduino.cc/index.php?main_page=product_info&cPath=6_32&products_id=188#.UxDAAfTV_bA)
+* 16 Magnete ø 4 h 3 : 3.5 € - [Supermagnete](http://www.supermagnete.ch/eng/S-04-03-N)
 
 Anweisungsbloecke ~ 4 €
 
-* 4 x 4.7K Ω Resistor : 0.04 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-47K-RC/?qs=sGAEpiMZZMu61qfTUdNhG%2fbdyz6pU6a%252bvHlD5kaZWgo%3d)
-* 4 x 100K Ω Resistor : 0.04 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-100K-RC/?qs=sGAEpiMZZMu61qfTUdNhG81NIhcRRUJQxII5Nsctha8%3d)
-* 4 x 220 Ω Resistor : 0.04 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-220-RC/?qs=sGAEpiMZZMu61qfTUdNhG%2f1uGo5nxyCVqn6ChOCvUEE%3d)
-* 4 x 10K Ω Resistor : 0.04 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-10K-RC/?qs=sGAEpiMZZMu61qfTUdNhG6xwTrVwTvbz8PPav3aExs8%3d)
-* 16 Magnets ø 4 h 3 : 3.5 € - [Supermagnete](http://www.supermagnete.ch/eng/S-04-03-N)
+* 4 x 4.7K Ω Widerstaende : 0.04 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-47K-RC/?qs=sGAEpiMZZMu61qfTUdNhG%2fbdyz6pU6a%252bvHlD5kaZWgo%3d)
+* 4 x 100K Ω Widerstaende : 0.04 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-100K-RC/?qs=sGAEpiMZZMu61qfTUdNhG81NIhcRRUJQxII5Nsctha8%3d)
+* 4 x 220 Ω Widerstaende : 0.04 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-220-RC/?qs=sGAEpiMZZMu61qfTUdNhG%2f1uGo5nxyCVqn6ChOCvUEE%3d)
+* 4 x 10K Ω Widerstaende : 0.04 € - [Mouser](http://uk.mouser.com/ProductDetail/Xicon/291-10K-RC/?qs=sGAEpiMZZMu61qfTUdNhG6xwTrVwTvbz8PPav3aExs8%3d)
+* 16 Magnete ø 4 h 3 : 3.5 € - [Supermagnete](http://www.supermagnete.ch/eng/S-04-03-N)
 
 ###3.3 Stromversorgung
 
-Cubetto and (optionally) the Interface Board, are battery powered. For the prototype you can use a LiPo battery or regular AA batteries, that's entirely up to you. We used both, LiPo batteries are good but you need extra equipment, if you are starting from scratch we recommend AA batteries. Just remember they run out very quickly, so the best would be to use rechargeable batteries, like NiMh.
+Cubetto und optional auch das Benutzerschnittstellen Board sind Batteriebetrieben. Fuer den Prototypen kannst du entscheiden ob du LiPo Akkus oder einfache AA Batterien verwenden willst. Wir haben beides verwendet. LiPo Akkus sind gut aber benoetigen ein wenig extra Zubehoer. Wenn du gerade anfaengst empfehlen wir AA Batterien. Merk dir aber das diese sehr schnell Leer werden. Am besten ist es wohl NiMh AA Akkus zu verwenden.
 
 ###3.4 Prototype Design
 
-The whole product is made out of laser cut wood, mainly 4 mm thick, with only one layer being 1mm thick. You can laser cut these parts using services like Ponoko, or in your local FabLab. The first prototype was laser cut inside [FabLab Lugano](http://fablab.supsi.ch/), while the product development advanced in [FabLab Torino](http://fablabtorino.org/), where part of Primo development team still resides.
+Das Produkt ist aus mit Laser geschnittenem Holz gemacht. Vor allem 4mm stark und einer lage mit einer Dicke von 1mm. Du kannst die Einzelteile von Dienstleistern wie Ponoko schneiden lassen oder ein Fablab in deiner Naehe besuchen. Der erste Prototyp wurde im [FabLab Lugano](http://fablab.supsi.ch/) gefertigt. Waehrend die weitere Produktentwicklung im [FabLab Torino](http://fablabtorino.org/) stattfand. Teile des Entwicklerteams befinde n sich immer noch dort.
 
-Building Cubetto and the Interface Board is a laborious but very simple procedure, their shells are basically boxes. The real complexity lays in the Instruction Blocks. They are a double 4mm wood layer with magnets and resistors soldered inside.
+Cubetto und das Benutzerschnittstellen Board zu bauen ist eine Arbeitsintensive aber sehr einfache Prozedur. Die Huellen sind einfache Schachteln. Die Komplexitaet liegt in der Herstellung der Anweisungsbloecke. Diese bestehen aus zwei 4mm Holzlagen mit Magneten und eingeloeteten Widerstaenden.
 
 ##4. Prototype Making
 
