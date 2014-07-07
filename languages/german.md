@@ -195,7 +195,7 @@ Cubetto und das Benutzerschnittstellen Board zu bauen ist eine Arbeitsintensive 
 
 ###4.1 Benutzerschnittstellen Board
 
-To make the interface board you have to laser cut two files: interface-board-4mm.dxf and interface-board-1mm.dxf: the first one is for 4mm plywood and the second one for 1mm plywood. As you can see from the files, the parts are numbered, to ease the assembly process. The numbers are stored on a different layer, so you can easily remove them before lasering. We recommend adjusting the hole for the push button, based on the size of the button you wish to use or have.
+Um das Benutzerschnittstellen Board zu bauen musst du 2 Dateien Laserschneiden: interface-board-4mm.dxf und interface-board-1mm.dxf: Die erste Datei ist fuer 4mm dickes Sperrholz und die zweite ist fuer 1mm starkes Sperrholz. Wie du an den Dateien erkennen kannst sind diese Nummeriert um das zusammenbauen zu erleichtern. Die Zahlen sind auf eigenen Ebenen gespeichert und koennen vor dem Laserschneiden einfach entfernt werden. Wir empfehlen das Loch fuer den Druckknopf(Start/Stop) der groesse des Knopfes anzupassen den sie zu Hause haben oder vorhaben zu verwenden.
 
 Zuallererst muessen Teil 3 und 4 zusammen geklebt werden. Benutze Schrauben umd die Teile durch die Loecher in den Ecken hindurch ueber Nacht zu fixieren.
 
@@ -204,15 +204,13 @@ Then take the copper tape, cut 32 pieces of 70mm each and put them inside the re
 ![copper connectors]({{ site.baseurl }}images/illustrations/board-1.jpg)
 ![copper connectors]({{ site.baseurl }}images/illustrations/board-2.jpg)
 
-Wenn du damit feritg bist kannst du die zuvor geklebten Teile 1+2 mit 3+4 zusammenkleben.
+Wenn du damit fertig bist kannst du die zuvor geklebten Teile 1+2 mit 3+4 zusammenkleben.
 
 ![copper connectors]({{ site.baseurl }}images/illustrations/board-esploso.jpg)
 
-Once the glue has dried, put the magnets in the little holes. Turn your top layer upside-down and fill the little holes with the magnets, make sure they are all in the same direction, doesn't matter if north or south. Seal the hole with a drop of hot glue.
+Wenn der Klebstoff getrocknet ist kannst du die Magnete in die kleinen Loecher legen. Lege die oberste Ebene Kopfueber und fuelle die Magnete in die kleinen Loecher. Stell sicher das alle die Selbe Orientierung haben. Ob Nord oder Sued ist dabei egal. Verschliesse das loch mit einem Tropfen heissklebstoff.
 
-Wenn der Klebstoff getrocknet ist kannst du die Magnete in die kleinen Loecher legen.
-
-Now the electronics. Start by making rails for the 5V and the GND, all along the hole lines like in the picture. The first ever prototype never had copper strips, it had wires (which you can also use), but in this prototype we used copper tape also for the rails. A real 100% time saver. It also makes things easier for creating connections.
+Nun zur Elektronik. Zu beginn verlege die 5V und Masse Schienen entlang der loecher so wie es am Bild abgebildet ist. Beim Allerersten prototypen haben wir anstelle von Kupferband Kabel (die du ebenfalls benutzen kannst) verwendet, aber fuer diesen Prototypen verwenden wir fuer die Schienen Kupferband . Aeine wahre 100% Zeitersparnis. Das Kupferband macht es auch einfacher neue Verbindungen herzustellen.
 
 ![rails]({{ site.baseurl }}images/illustrations/board-3.jpg)
 
@@ -232,7 +230,7 @@ Now it's time to put the LEDs; stick one red LED in each one of the 16 holes, th
 
 ![10k]({{ site.baseurl }}images/photo/diy-docs-6.jpg)
 
-Connect each cathode to the ground rail, using a 220Ω Resistor.
+Verbinde jede Kathode ueber einen 220Ω Widerstand mit der Ground Schiene.
 
 ![10k scheme]({{ site.baseurl }}images/illustrations/board-7.jpg)
 
