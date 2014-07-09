@@ -210,11 +210,13 @@ Wenn du damit fertig bist kannst du die zuvor geklebten Teile 1+2 mit 3+4 zusamm
 
 Wenn der Klebstoff getrocknet ist kannst du die Magnete in die kleinen Loecher legen. Lege die oberste Ebene Kopfueber und fuelle die Magnete in die kleinen Loecher. Stell sicher das alle die Selbe Orientierung haben. Ob Nord oder Sued ist dabei egal. Verschliesse das loch mit einem Tropfen heissklebstoff.
 
-Nun zur Elektronik. Zu beginn verlege die 5V und Masse Schienen entlang der loecher so wie es am Bild abgebildet ist. Beim Allerersten prototypen haben wir anstelle von Kupferband Kabel (die du ebenfalls benutzen kannst) verwendet, aber fuer diesen Prototypen verwenden wir fuer die Schienen Kupferband . Aeine wahre 100% Zeitersparnis. Das Kupferband macht es auch einfacher neue Verbindungen herzustellen.
+Nun zur Elektronik. Zu Beginn verlege die 5V und Masse Schienen entlang der Loecher so wie es am Bild abgebildet ist. Beim Allerersten Prototypen haben wir anstelle von Kupferband Kabel(die du ebenfalls benutzen kannst) verwendet, aber bei diesem Prototypen verwenden wir fuer die Schienen Kupferband . Eine wahre 100% Zeitersparnis. Das Kupferband macht es auch einfacher neue Verbindungen zu erstellen.
 
 ![rails]({{ site.baseurl }}images/illustrations/board-3.jpg)
 
 The next step is to wire one of the two connectors of every hole, to the ground rail. If you used copper tape, you can just use a tiny extra bit of it, just enough to touch both ends.
+
+
 
 ![rails]({{ site.baseurl }}images/illustrations/board-5.jpg)
 
